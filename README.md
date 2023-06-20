@@ -1,6 +1,6 @@
 ### 안녕하세요! 기본에 충실하기 위해 노력하는 iOS 개발자 강창혁 입니다.
 
-  <img src="https://img.shields.io/badge/notion-#000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
   
 - 아직 배울게 많은 iOS 개발자입니다.
