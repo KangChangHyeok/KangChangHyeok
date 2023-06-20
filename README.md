@@ -1,6 +1,6 @@
 ### 안녕하세요! 기본에 충실하기 위해 노력하는 iOS 개발자 강창혁 입니다.
 
-  <a href="https://www.notion.so/Kang-Chang-Hyeok-96591ce4160447e69c48669b884a7e30"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=000000"/></a>
+  <a href="[https://www.notion.so/Kang-Chang-Hyeok-96591ce4160447e69c48669b884a7e30](https://www.notion.so/iOS-f97fe5d429eb4c0b93f3ad9d940c2761?pvs=4)"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=000000"/></a>
   
 - 아직 배울게 많은 iOS 개발자입니다.
 - 사용자 입장에서 앱을 만들기 위해 노력합니다.
