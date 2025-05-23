@@ -1,4 +1,4 @@
-# 일단 들이박고 보는 iOS 개발자 강창혁입니다.
+# iOS 개발자 강창혁입니다.
 
 ## 현재 진행하는 프로젝트
 - 현재 구두 판매 플랫폼[(CusmeShoes)](https://apps.apple.com/kr/app/cusme-shoes/id1668313939)의 iOS 개발과 디자인을 맡아서 진행하고 있습니다.
